@@ -47,5 +47,11 @@ You can test the code using `bash` or using `vim`
 ## Further improvements 
 -The lib can't deal with application using threads as `gdb` it can support it in further versions 
 
+## Vedio 
+
+https://github.com/user-attachments/assets/919f4b60-432a-4d97-b97b-afc31c1ee4f4
+
+
+
 
 
