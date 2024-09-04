@@ -49,9 +49,9 @@ You can test the code using `bash` or using `vim`
 
 ## Vedio 
 
-https://github.com/user-attachments/assets/919f4b60-432a-4d97-b97b-afc31c1ee4f4
+https://github.com/user-attachments/assets/00b60844-5267-47dd-adb1-aa88351bacdd
 
-
+[Drive video](https://drive.google.com/file/d/1CjQObgagZyyjo3Zts5EQLLB_yT6T9MEr/view?usp=drive_link)
 
 
 
