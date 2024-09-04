@@ -17,18 +17,7 @@ void deleteNode(node_mod* req_delete)
     node_mod* next =req_delete->ptrNext;
     node_mod* before =req_delete->ptrPrev;
 
-    // if(req_delete == (node_mod*)base) {
-    //     if(next != NULL) { //(next != NULL)
-    //          next->ptrPrev = (node_mod*)base;
-    //          head = next ;
-    //     }
-    //     else {      // there is no free node 
-    //         head = NULL;
-    //     }
-    //     req_delete->ptrNext = NULL;
-    //     req_delete->ptrPrev = NULL;
-    //     return;
-    // }
+   
 
     if(req_delete == head ) {// checking if it is the first node
         if(next==NULL) {
@@ -95,4 +84,4 @@ void insert_node_mod(node_mod* insert )
     
 }
 
-// search for data
+
